@@ -8,10 +8,8 @@ A simple to-do list web application built using HTML, CSS, and JavaScript.
 
 - [Demo](#demo)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Demo
 
