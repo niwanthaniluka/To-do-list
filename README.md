@@ -2,7 +2,7 @@
 
 A simple to-do list web application built using HTML, CSS, and JavaScript.
 
-![Screenshot](todo.png)
+![Screenshot](todolist.png)
 
 ## Table of Contents
 
